@@ -13,7 +13,7 @@
 ## Demo Live Link
 
 The App is hosted with vercel and available here
-Demo Link: https://vercel.com/dev-leinad/quiz-app
+Demo Link: https://myquizapp-o6zip58co-dev-leinad.vercel.app/
 
 ## Sample Output Desktop View
 

@@ -10,10 +10,16 @@ const quizData = [
       correctIndex: 2,
     },
     {
-      question: "What is the largest mammal?",
-      options: ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus", "Rhino"],
-      correctIndex: 1,
+      question: "which continent is Nigeria in ?",
+      options: ["Africa", "Asia", "America", ],
+      correctIndex: 0,
     },
+    {
+      question: "How many Color is in Nigeria flag?",
+      options: ["2", "1", "3", "4", "None of the above"],
+      correctIndex: 0,
+    },
+   
  ];
  
 
